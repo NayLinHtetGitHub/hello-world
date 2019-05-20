@@ -1,0 +1,6 @@
+use database....;
+create database nay;
+create table tab_1(id,name,phone);
+connect system
+root
+alter user hr account unlock identified by root;
